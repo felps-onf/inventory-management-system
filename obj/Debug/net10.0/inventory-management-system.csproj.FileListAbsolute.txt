@@ -1,0 +1,14 @@
+/home/felps/Desktop/projects/inventory-management-system/bin/Debug/net10.0/inventory-management-system
+/home/felps/Desktop/projects/inventory-management-system/bin/Debug/net10.0/inventory-management-system.deps.json
+/home/felps/Desktop/projects/inventory-management-system/bin/Debug/net10.0/inventory-management-system.runtimeconfig.json
+/home/felps/Desktop/projects/inventory-management-system/bin/Debug/net10.0/inventory-management-system.dll
+/home/felps/Desktop/projects/inventory-management-system/bin/Debug/net10.0/inventory-management-system.pdb
+/home/felps/Desktop/projects/inventory-management-system/obj/Debug/net10.0/inventory-management-system.GeneratedMSBuildEditorConfig.editorconfig
+/home/felps/Desktop/projects/inventory-management-system/obj/Debug/net10.0/inventory-management-system.AssemblyInfoInputs.cache
+/home/felps/Desktop/projects/inventory-management-system/obj/Debug/net10.0/inventory-management-system.AssemblyInfo.cs
+/home/felps/Desktop/projects/inventory-management-system/obj/Debug/net10.0/inventory-management-system.csproj.CoreCompileInputs.cache
+/home/felps/Desktop/projects/inventory-management-system/obj/Debug/net10.0/inventory-management-system.dll
+/home/felps/Desktop/projects/inventory-management-system/obj/Debug/net10.0/refint/inventory-management-system.dll
+/home/felps/Desktop/projects/inventory-management-system/obj/Debug/net10.0/inventory-management-system.pdb
+/home/felps/Desktop/projects/inventory-management-system/obj/Debug/net10.0/inventory-management-system.genruntimeconfig.cache
+/home/felps/Desktop/projects/inventory-management-system/obj/Debug/net10.0/ref/inventory-management-system.dll
