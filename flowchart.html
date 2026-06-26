@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flowchart - Inventory Management System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 40px;
+      background: #f7f9fc;
+      color: #1f2937;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #0f172a;
+    }
+    .flow {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+    }
+    .box {
+      border: 2px solid #2563eb;
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 14px 22px;
+      min-width: 320px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      font-size: 16px;
+      font-weight: 600;
+    }
+    .decision {
+      border-color: #9333ea;
+    }
+    .arrow {
+      font-size: 24px;
+      color: #475569;
+    }
+    .small {
+      font-size: 13px;
+      font-weight: 500;
+      color: #64748b;
+    }
+  </style>
+</head>
+<body>
+  <h1>Flowchart do Programa</h1>
+  <div class="flow">
+    <div class="box">Início</div>
+    <div class="arrow">↓</div>
+    <div class="box">Inicializar lista vazia de produtos</div>
+    <div class="arrow">↓</div>
+    <div class="box">Exibir menu principal</div>
+    <div class="arrow">↓</div>
+    <div class="box decision">Escolher opção</div>
+    <div class="arrow">↓</div>
+    <div class="box">1. Ver produtos</div>
+    <div class="small">ou</div>
+    <div class="box">2. Adicionar produto</div>
+    <div class="small">ou</div>
+    <div class="box">3. Atualizar estoque</div>
+    <div class="small">ou</div>
+    <div class="box">4. Remover produto</div>
+    <div class="small">ou</div>
+    <div class="box">5. Executar testes internos</div>
+    <div class="small">ou</div>
+    <div class="box">6. Sair</div>
+    <div class="arrow">↓</div>
+    <div class="box">Validar entrada e atualizar a lista</div>
+    <div class="arrow">↓</div>
+    <div class="box">Voltar ao menu</div>
+    <div class="arrow">↓</div>
+    <div class="box">Fim</div>
+  </div>
+</body>
+</html>
